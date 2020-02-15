@@ -1,5 +1,7 @@
 the story was started by 20 s905L-B tv box that I gought from china 
+this is about s905L-B s905L-2 S905M-B S905M-2
 17/04/2019 update =====================================================================================================================
+
 # gxl-s905L-B-p211
 unpacke from p211 dtb
 
